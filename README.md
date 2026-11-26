@@ -3,8 +3,8 @@ O Web Design envolve o planejamento, a estruturação e a criação visual de p�
 
 Aqui em baixo, você tera acesso ao:
 
-  GitHub do nosso projeto EcoEnergia caso seja do seu interesse: https://github.com/Igor-SJ/e-reviews
+  -GitHub do nosso projeto EcoEnergia caso seja do seu interesse: https://github.com/Igor-SJ/e-reviews
   
-  Deploy do nosso site das atividades: https://e-reviews.vercel.app/ 
+  -Deploy do nosso site das atividades: https://e-reviews.vercel.app/ 
   
-  Deploy do nosso site da AF: https://ecoenergia.onrender.com 
+  -Deploy do nosso site da AF: https://ecoenergia.onrender.com 
